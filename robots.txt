@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /old/
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Disallow: google6f1841db4eb72b8d.html
